@@ -1,0 +1,4 @@
+/arch/pic32mx_gcc/framework/
+/target/1_2_5_starterkit_gcc/system_config/
+/target/1_2_5_starterkit_gcc/app.c
+/target/1_2_5_starterkit_gcc/app.h
